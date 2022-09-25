@@ -1,5 +1,5 @@
 # The Jon Fosse Heatmap
-This is a web-readable heatmap showing the geographic distribution and density of theatre productions where the Norwegian playwriter Jon Fosse has been mentioned as playwriter or translator.
+This heatmap shows the geographic distribution and density of theatre productions assosiated with the Norwegian dramatist Jon Fosse (mainly as a playwriter or translator).
 
 The data is provided by the National Performing Arts Archive of Norway (sceneweb.no) and collected by Jens-Morten Hanssen, Section Manager for Books and Languages at the National Library of Norway.
 
