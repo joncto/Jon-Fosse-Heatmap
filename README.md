@@ -1,9 +1,9 @@
 # The Jon Fosse Heatmap
 The Jon Fosse Heatmap is a web-readable heatmap showing the geographic distribution and density of theatre productions with the Norwegian playwriter Jon Fosse mentioned as playwriter or translator.
 
-It is made in QGIS and exported using the qgis2web-plugin.
+The map is produced in QGIS and exported using the qgis2web-plugin and OpenLayers' JavaScript libraries for web maps.
 
-The data is provided by the National Performing Arts Archive of Norway (sceneweb.no) and collected by Jens-Morten Hanssen, manager of Section for Books and Languages at the National Library of Norway.
+The data is provided by the National Performing Arts Archive of Norway (sceneweb.no) and collected by Jens-Morten Hanssen, Section Manager for Books and Languages at the National Library of Norway.
 
 ## Usage
 
