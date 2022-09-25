@@ -14,5 +14,4 @@ Locate the "index.html" and open it in your favourite browser.
 Use the layer box in the top right corner to toggle different layers on/off.
 
 The map can also be viewed by entering the following URL in your browser: 
-https://htmlpreview.github.io/?https://github.com/joncto/Jon-Fosse-Heatmap/blob/main/Jon-Fosse-Heatmap_test1/index.html
-
+https://htmlpreview.github.io/?https://github.com/joncto/Jon-Fosse-Heatmap/blob/main/Jon-Fosse-Heatmap/index.html
