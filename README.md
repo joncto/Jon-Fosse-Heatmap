@@ -8,14 +8,13 @@ The map is produced in QGIS and exported using the qgis2web-plugin and OpenLayer
 ## Usage
 
 ### Present the map on your computer
-1. Download the repo to your computer: https://github.com/joncto/Jon-Fosse-Heatmap/archive/refs/heads/main.zip
+1. Download the project files to your computer: https://github.com/joncto/Jon-Fosse-Heatmap/archive/refs/heads/main.zip
 
-2. Unzip the file.
+2. Unzip it.
 
-3. Locate the "index.html" file and open it in your favourite browser.
+3. Open the "Jon-Fosse-Heatmap" folder.
 
-4. Use the layer box in the top right corner to toggle different layers on/off.
-Click the pins to show the name of the place and number of productions.
+4. Run "index.html" in your favourite browser.
 
 ### View online
 The map can be viewed in a browser by entering the following URL: 
