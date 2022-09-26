@@ -360,7 +360,9 @@ map.on("rendercomplete", function(evt) {
         var attributionList = attribution.getElementsByTagName('ul')[0];
         var firstLayerAttribution = attributionList.getElementsByTagName('li')[0];
         var jonctoAttribution = document.createElement('li');
-        jonctoAttribution.innerHTML = '<a href="https://github.com/joncto/Jon-Fosse-Heatmap">Joncto</a> &middot; ';
+        jonctoAttribution.innerHTML = '<a href="https://github.com/joncto/Jon-Fosse-Heatmap">joncto</a> &middot; ';
+        var dhlabAttribution = document.createElement('li');
+        dhlabAttribution.innerHTML = '<a href="https://www.nb.no/dh-lab/">DH-lab</a> &middot; ';
         var scenewebAttribution = document.createElement('li');
         scenewebAttribution.innerHTML = '<a href="https://sceneweb.no/sok?q=Jon%20Fosse&sortorder=sc&o=Produksjon">Sceneweb</a> &middot; ';
         var qgis2webAttribution = document.createElement('li');
@@ -369,11 +371,14 @@ map.on("rendercomplete", function(evt) {
         olAttribution.innerHTML = '<a href="https://openlayers.org/">OpenLayers</a> &middot; ';
         var qgisAttribution = document.createElement('li');
         qgisAttribution.innerHTML = '<a href="https://qgis.org/">QGIS</a>';
+        var licenseAttribution = document.createElement('li');
+        licenseAttribution.innerHTML = '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA</a> &middot; ';
         attributionList.insertBefore(jonctoAttribution, firstLayerAttribution);
+        attributionList.insertBefore(dhlabAttribution, firstLayerAttribution);
         attributionList.insertBefore(scenewebAttribution, firstLayerAttribution);
         attributionList.insertBefore(qgis2webAttribution, firstLayerAttribution);
         attributionList.insertBefore(olAttribution, firstLayerAttribution);
-        attributionList.insertBefore(qgisAttribution, firstLayerAttribution);
+        attributionList.insertBefore(licenseAttribution, firstLayerAttribution);
         attributionComplete = true;
     }
 })
