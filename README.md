@@ -15,7 +15,7 @@ If you want to view the maps, without producing them yourself, you can download 
 - [Heatmap over time](https://github.com/joncto/Jon-Fosse-Heatmap/blob/main/Jon-Fosse-Heatmap/output/fosse-heatmap.html).
 
 ## Data
-The data is provided by the National Performing Arts Archive of Norway (sceneweb.no) and collected by [Jens-Morten Hanssen](https://www.nb.no/ansatte/jens-morten-hanssen/), Researcher II at the National Library of Norway.
+The data is provided by the National Performing Arts Archive of Norway (sceneweb.no).
 
 ## Running the Notebook
 Jupyter Notebooks are interactive tools for computing, but does not require computational expertise. Basically, they contain a mix of explanatory text and code cells. Text cells are written in Markdown, while code cells are written in Python.
