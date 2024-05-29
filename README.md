@@ -1,7 +1,7 @@
 # The Jon Fosse Heatmap
 ![](https://github.com/joncto/Jon-Fosse-Heatmap/blob/main/FossePros_heatmap_web.png)
 
-This small repository utilise data from Sceneweb about theatre productions based on plays by Jon Fosse, to create map visualisations. The objective is to visualise the geographical distribution of Fosse's work over time (1994-2024).
+This small repository utilise data from the National Performing Arts Archive (Sceneweb) about theatre productions based on plays by Jon Fosse, to create map visualisations. The objective is to visualise the geographical distribution of Fosse's work over time (1994-2024).
 
 **The script:**
 - loads data from Excel
@@ -18,7 +18,7 @@ If you want to view the maps, without producing them yourself, you can download 
 The data is provided by the National Performing Arts Archive of Norway (sceneweb.no).
 
 ## Running the Notebook
-Jupyter Notebooks are interactive tools for computing, but does not require computational expertise. Basically, they contain a mix of explanatory text and code cells. Text cells are written in Markdown, while code cells are written in Python.
+Jupyter Notebooks are interactive tools for computation. However, they do not require computational expertise. Basically, they contain a mix of explanatory text and code cells. Text cells are written in Markdown, while code cells are written in Python.
 
 To execute a code cell, you just have to make sure that it is marked, and then press <kbd>Shift</kbd> + <kbd>Enter</kbd>.
 
